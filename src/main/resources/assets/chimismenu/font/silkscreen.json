@@ -1,0 +1,6 @@
+{
+  "providers": [
+    {"type": "ttf", "file": "chimismenu:silkscreen.ttf", "shift": [0, 0], "size": 8.0, "oversample": 1.0},
+    {"type": "reference", "id": "minecraft:default"}
+  ]
+}

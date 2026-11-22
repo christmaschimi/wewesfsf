@@ -1,0 +1,7 @@
+{
+  "auction_win": {
+    "sounds": [
+      { "name": "chimismenu:auction_win", "stream": false }
+    ]
+  }
+}

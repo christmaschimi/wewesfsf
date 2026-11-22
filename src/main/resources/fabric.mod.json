@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "chimismenu",
+  "version": "${version}",
+  "name": "Chimi's Menu",
+  "description": "A customizable client-side menu with a payment-based auction tracker, profit HUD, themes, inventory backgrounds and sky presets.",
+  "authors": ["Chimi"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["com.chimi.menu.ChimiMenuClient"] },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
